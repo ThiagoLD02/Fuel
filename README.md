@@ -1,1 +1,1 @@
-A Flutter app that calculates wich fuel is best givven the price.
+A Flutter app that calculates wich fuel is best given the price.
